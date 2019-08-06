@@ -67,7 +67,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
                     BnSkip.setVisibility(View.INVISIBLE);
                 }
                 else{
-                    BnNext.setText("Start");
+                    BnNext.setText("Next");
                     BnSkip.setVisibility(View.VISIBLE);
                 }
             }
